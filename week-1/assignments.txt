@@ -1,0 +1,47 @@
+1. Write a Python program to print the following string in a specific format (see the output). Go to the editor
+Sample String : "Twinkle, twinkle, little star, How I wonder what you are! Up above the world so high, Like a diamond in the sky. Twinkle, twinkle, little star, How I wonder what you are" 
+
+Output :
+
+    Twinkle, twinkle, little star,
+        How I wonder what you are! 
+            Up above the world so high,   		
+            Like a diamond in the sky. 
+    Twinkle, twinkle, little star, 
+        How I wonder what you are
+
+
+2. Write a Python program which accepts the radius of a circle from the user and compute the area.
+
+Output :
+
+    Input the radius of the circle : 1.1                                                                          
+    The area of the circle with radius 1.1 is: 3.8013271108436504
+
+
+3. Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them.
+
+Output :
+
+    Input your First Name : Ashim                                       
+    Input your Last Name : Bajracharya                                      
+    Bajracharya Ashim
+
+
+4. Write a Python program that accepts an integer (x) and computes the value of x+xx+xxx.
+
+    Output :
+
+        Sample value of x is 5
+        Expected Result : 615
+
+
+5. Write a Python program to print the following 'here document'.
+
+    Output :
+
+        a string that you "don't" have to escape
+        This
+        is a ....... multi-line
+        heredoc string --------> example
+        
